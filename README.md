@@ -1,4 +1,4 @@
-# 📊 Exploratory Data Analysis & Insights Project
+# 📊 traffic-accident-analysis-hotspots
 
 > A data science project focused on extracting meaningful insights using exploratory data analysis and visualization techniques.
 
